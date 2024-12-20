@@ -1,8 +1,5 @@
 # Zeus-Bankind-Trojan-Analysis
 
-
-# Proactive Project Report
-
 ## Simulate Malware Execution & Detection
 
 ### Environment
